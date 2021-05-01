@@ -28,7 +28,7 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/articuno/scene.gltf',
+        url: 'https://johnkarlv.github.io/ar-geolocation-jscript/assets/articuno/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
         info: 'Articuno, Lv. 80, HP 100/100',
