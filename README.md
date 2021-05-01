@@ -1,7 +1,7 @@
 # ar-geolocation-jscript
 AR geolocation - jscript
 
-AR Gelocation Project
+AR Geolocation Project
 
 I like 🚲 🇨🇴 🎧 🚵
 
