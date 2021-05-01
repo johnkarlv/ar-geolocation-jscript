@@ -28,10 +28,10 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: 'https://johnkarlv.github.io/ar-geolocation-jscript/assets/articuno/scene.gltf',
+        url: './assets/articuno/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'ArticunoJV, Lv. 80, HP 100/100',
+        info: 'Articuno, Lv. 80, HP 100/100',
     },
     {
         url: './assets/dragonite/scene.gltf',
